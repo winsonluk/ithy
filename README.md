@@ -7,9 +7,7 @@ The Ithy open-source project aims to provide a platform to generate research rep
 Ithy Project Documentation
 ==========================
 
-### An Open-Source Research Report Generator in English and Traditional Chinese
-
-![research report generation on computer desk](https://storage.googleapis.com/e-object-409003.firebasestorage.app/ithy-readme-doc-0u5jpubakk.jpg)
+### An Open-Source AI Aggregator
 
 ---
 
@@ -17,7 +15,6 @@ Highlights
 ----------
 
 * **Multi-model Coordination:** Leverages a Mixture-of-Agents philosophy to synthesize research outputs.
-* **Dual Language Support:** Provides README documentation in both English and Traditional Chinese.
 * **Streamlined Architecture:** Offers a concise 50-line implementation and detailed prompt modules for robust research.
 
 ---
