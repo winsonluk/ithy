@@ -11,10 +11,6 @@ Ithy Project Documentation
 
 ![research report generation on computer desk](https://storage.googleapis.com/e-object-409003.firebasestorage.app/ithy-readme-doc-0u5jpubakk.jpg)
 
-PRO
-
-Pro Article
-
 ---
 
 Highlights
