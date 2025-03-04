@@ -4,6 +4,8 @@ This project was inspired by [ithy.com](https://ithy.com). Ithy itself was inspi
 
 This open-source repository aims to provide a platform to generate responses based on the Mixture-of-Agents philosophy. The goal is to generalize the concepts from ithy.com to apply to other projects.
 
+Read about ithy.com on Medium: https://medium.com/@winson.luk/what-happens-when-you-combine-deepseek-r1-with-openai-o1-6a89a315ab43
+
 Ithy Project Documentation
 ==========================
 
