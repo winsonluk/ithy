@@ -1,10 +1,12 @@
 # Ithy
 
-This project was inspired by [ithy.com](https://ithy.com). Ithy itself was inspired by [https://github.com/togethercomputer/MoA](https://github.com/togethercomputer/MoA) and [https://github.com/assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher).
+This project was inspired by [ithy.com](https://ithy.com).
 
-This open-source repository aims to provide a platform to generate responses based on the Mixture-of-Agents philosophy. The goal is to generalize the concepts from ithy.com to apply to other projects.
+Ithy itself was inspired by [https://github.com/togethercomputer/MoA](https://github.com/togethercomputer/MoA) and [https://github.com/assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher).
 
-Read about ithy.com on Medium: https://medium.com/@winson.luk/what-happens-when-you-combine-deepseek-r1-with-openai-o1-6a89a315ab43
+This open-source repository aims to provide a platform to generate responses based on the Mixture-of-Agents philosophy. The goal is to generalize the concepts from Ithy to apply to other projects.
+
+Read about Ithy on Medium: https://medium.com/@winson.luk/what-happens-when-you-combine-deepseek-r1-with-openai-o1-6a89a315ab43
 
 Ithy Project Documentation
 ==========================
