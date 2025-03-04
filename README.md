@@ -1,4 +1,4 @@
-# Ithy
+# Ithy: An Open-Source AI Aggregator
 
 This project was inspired by [ithy.com](https://ithy.com).
 
@@ -8,23 +8,14 @@ This open-source repository aims to provide a platform to generate responses bas
 
 Read about Ithy on Medium: https://medium.com/@winson.luk/what-happens-when-you-combine-deepseek-r1-with-openai-o1-6a89a315ab43
 
-Ithy Project Documentation
-==========================
-
-### An Open-Source AI Aggregator
-
 ---
 
-Highlights
-----------
+### Highlights
 
 * **Multi-model Coordination:** Leverages a Mixture-of-Agents philosophy to synthesize research outputs.
 * **Streamlined Architecture:** Offers a concise 50-line implementation and detailed prompt modules for robust research.
 
 ---
-
-English Version README.md
--------------------------
 
 ### Project Overview and Core Files
 
@@ -59,9 +50,7 @@ The project also includes custom prompt files within the *prompts/* directory. T
 
 Ithy requires installation of the Together API, among other dependencies. By setting an environment variable containing the API key, the project connects smoothly to external service providers to make real-time LLM calls. This integration provides users the flexibility to use a variety of models from platforms like Meta Llama, Qwen, and Microsoft WizardLM.
 
-
-In-Depth Look at the Code
--------------------------
+---
 
 ### main.py Implementation
 
