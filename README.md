@@ -1,8 +1,6 @@
-# Ithy: An Open-Source AI Aggregator
+# Ithy on Github
 
-This project was inspired by [ithy.com](https://ithy.com).
-
-Ithy itself was inspired by [https://github.com/togethercomputer/MoA](https://github.com/togethercomputer/MoA) and [https://github.com/assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher).
+This project is based on [ithy.com](https://ithy.com), which was inspired by [https://github.com/togethercomputer/MoA](https://github.com/togethercomputer/MoA) and [https://github.com/assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher).
 
 This open-source repository aims to provide a platform to generate responses based on the Mixture-of-Agents philosophy. The goal is to generalize the concepts from Ithy to apply to other projects.
 
