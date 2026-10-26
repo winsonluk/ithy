@@ -1,0 +1,5 @@
+synthetic_agent,requests,matched_checks
+example_a,20,18
+example_b,14,14
+example_c,9,8
+unclassified_example,5,0

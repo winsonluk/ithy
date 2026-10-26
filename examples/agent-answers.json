@@ -1,0 +1,11 @@
+{
+  "synthetic": true,
+  "description": "Invented answer records; not collected from people or models.",
+  "cases": [
+    {"case": "agreement", "truth": "4", "answers": ["4", "4", "4"]},
+    {"case": "disagreement", "truth": "4", "answers": ["4", "5", "4"]},
+    {"case": "tie", "truth": "4", "answers": ["4", "5", null]},
+    {"case": "correlated_error", "truth": "4", "answers": ["5", "5", "5"]},
+    {"case": "abstention", "truth": "4", "answers": [null, "", " "]}
+  ]
+}

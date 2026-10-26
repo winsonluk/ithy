@@ -1,0 +1,15 @@
+{
+  "synthetic": true,
+  "provenance": "Hand-invented teaching fixture, independent of real analytics.",
+  "total_mentions": 128,
+  "documents": [
+    {"id": "example_a", "mentions": 23, "recorded_clicks": 0},
+    {"id": "example_b", "mentions": 20, "recorded_clicks": 3},
+    {"id": "example_c", "mentions": 18, "recorded_clicks": 0},
+    {"id": "example_d", "mentions": 17, "recorded_clicks": 2},
+    {"id": "example_e", "mentions": 16, "recorded_clicks": 1},
+    {"id": "example_f", "mentions": 14, "recorded_clicks": 0},
+    {"id": "example_g", "mentions": 11, "recorded_clicks": 0},
+    {"id": "example_h", "mentions": 9, "recorded_clicks": 0}
+  ]
+}
