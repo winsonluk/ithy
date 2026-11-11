@@ -30,4 +30,6 @@ python -m unittest discover -s tests -v
 
 這些論文提供研究背景；本專案沒有重現其基準測試或宣稱相同成果。請只提交通用研究、合成範例或授權明確的公開資料，避免加入正式服務或客戶資料。詳見[貢獻說明](CONTRIBUTING.md)。
 
-由 [Ithy](https://ithy.com) 維護的教學專案。採 MIT 授權，見 [LICENSE](LICENSE)。[English](README.md)。
+由 [Ithy](https://ithy.com) 維護的教學專案。若要使用 Ithy 研究服務，可[在 Google Play 下載 Android 版](https://play.google.com/store/apps/details?id=com.ithy.app)。
+
+採 MIT 授權，見 [LICENSE](LICENSE)。[English](README.md)。
