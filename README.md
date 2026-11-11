@@ -47,4 +47,6 @@ These papers motivate the questions; this project does not claim their results.
 
 Keep contributions focused on general routing, aggregation, evaluation and reproducibility. Use synthetic or explicitly licensed public fixtures. Do not contribute service configuration, real analytics, customer material, credentials or production prompts. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
-An educational project maintained by [Ithy](https://ithy.com). MIT licensed; see [LICENSE](LICENSE). [繁體中文](README-CN.md).
+An educational project maintained by [Ithy](https://ithy.com). For the hosted research service, [get Ithy for Android on Google Play](https://play.google.com/store/apps/details?id=com.ithy.app).
+
+MIT licensed; see [LICENSE](LICENSE). [繁體中文](README-CN.md).
